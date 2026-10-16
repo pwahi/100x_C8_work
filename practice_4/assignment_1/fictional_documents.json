@@ -1,0 +1,73 @@
+[
+  {
+    "title": "FICTIONAL training report: noise definitions",
+    "location": "Section 3.1",
+    "domain": "Acoustics",
+    "keywords": [
+      "noise",
+      "cumulative",
+      "combined"
+    ],
+    "excerpt": "In this fictional training report, cumulative noise combines different noise sources with a correction for differences in annoyance. Combined noise combines sources without that correction and is used to determine the indoor noise level. These statements are training data, not regulatory guidance."
+  },
+  {
+    "title": "FICTIONAL training report: Project Cedar meeting room",
+    "location": "Section 2.2",
+    "domain": "Ventilation",
+    "keywords": [
+      "ventilation",
+      "cedar",
+      "airflow"
+    ],
+    "excerpt": "For the fictional Project Cedar meeting room, the design assumes 10 occupants and a supply airflow of 300 cubic metres per hour. This is a project assumption for this room, not a general requirement."
+  },
+  {
+    "title": "FICTIONAL training rules: BENG for Project Maple",
+    "location": "Section 1.1 - invented energy targets",
+    "domain": "Energy performance",
+    "keywords": [
+      "beng",
+      "energy",
+      "energie",
+      "maple",
+      "renewable",
+      "hernieuwbaar"
+    ],
+    "excerpt": "FICTIONAL EXERCISE ONLY: For the invented new-build housing Project Maple, this mock rulebook sets BENG 1 at a maximum of 60 kWh/m2 per year, BENG 2 at a maximum of 35 kWh/m2 per year, and BENG 3 at a minimum of 45 percent. In this exercise, the labels mean energy demand, primary fossil energy use, and renewable energy share respectively. These targets apply only to the fictional project; the numbers are invented and do not state actual Dutch regulations or demonstrate compliance."
+  },
+  {
+    "title": "FICTIONAL training rules: daylight for Project Birch",
+    "location": "Section 2.1 - invented daylight criterion",
+    "domain": "Daylight",
+    "keywords": [
+      "daylight",
+      "daglicht",
+      "birch",
+      "window",
+      "windows",
+      "raam",
+      "ramen"
+    ],
+    "excerpt": "FICTIONAL EXERCISE ONLY: The mock daylight rule for Project Birch requires an equivalent daylight area of at least 12 percent of each living room's floor area. A fictional 25 m2 living room therefore needs at least 3 m2 of equivalent daylight area. The exercise assumes no external obstructions. Equivalent daylight area must not be treated as identical to physical glazing area. This simplified criterion and percentage are invented training data, not actual Dutch daylight regulations."
+  },
+  {
+    "title": "FICTIONAL training policy: sun hours for Project Elm",
+    "location": "Section 3.1 - invented sunlight assessment",
+    "domain": "Sunlight / bezonning",
+    "keywords": [
+      "sun",
+      "sunlight",
+      "sunshine",
+      "hours",
+      "bezonning",
+      "bezonings",
+      "bezonningseis",
+      "bezonningseisen",
+      "zon",
+      "zonuren",
+      "elm",
+      "tno"
+    ],
+    "excerpt": "FICTIONAL EXERCISE ONLY: The invented municipality of Exampletown requests at least 2.5 hours of potential direct sunlight on 21 March at a reference point in the centre of the main living-room window, 1 metre above the finished floor, for fictional Project Elm. Sum all unobstructed direct-sun intervals from 09:00 to 17:00 local standard time; the intervals need not be continuous. Model surrounding buildings and ignore cloud cover and vegetation for this exercise. These dates, hours, reference point and assumptions are invented. This is not a real municipal policy, national regulation or TNO criterion."
+  }
+]
