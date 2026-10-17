@@ -1,3 +1,5 @@
 .env
 __pycache__/
 use_case.md
+.vercel
+.env*

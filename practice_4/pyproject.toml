@@ -1,0 +1,14 @@
+[project]
+name = "knowledge-retriever-mvp"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "pydantic",
+    "requests",
+    "python-dotenv",
+    "uvicorn"
+]
+
+[tool.vercel]
+entrypoint = "Assignment_2_fn2API:app"
